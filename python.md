@@ -1,3 +1,4 @@
 A = int(input("enter the value")
 B = int(input("enter the vale")
-C = print (A + B)
+C = (A + B)
+print("sum of A & B is", &c)
